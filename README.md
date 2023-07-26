@@ -1,5 +1,5 @@
 ## General Info
-* is a script that generate a random message
+* is a script that generate a random fortune tellere message
 
 ## Technology
 project is created with :
