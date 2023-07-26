@@ -1,5 +1,5 @@
 ## General Info
-* is a script that generate a random fortune tellere message
+* is a script about creditcard checker
 
 ## Technology
 project is created with :
